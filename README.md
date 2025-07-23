@@ -1,6 +1,6 @@
 # Mask R-CNN (Meta Reimplementation) – Cityscapes Evaluation
 
-![Ground Truth vs Prediction](./assets/visualization.png)  
+![Ground Truth vs Prediction](./assets/final_example.png)  
 *Ground Truth (left) vs Prediction (right)*
 
 ## Overview
