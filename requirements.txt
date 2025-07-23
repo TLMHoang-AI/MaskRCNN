@@ -1,0 +1,18 @@
+# Core
+python==3.10
+torch>=2.0
+torchvision>=0.15
+
+# Data handling & preprocessing
+numpy
+matplotlib
+opencv-python
+albumentations
+scikit-learn
+tqdm
+
+# COCO evaluation tools
+pycocotools
+
+# Optional (for notebooks and visualization)
+jupyter
